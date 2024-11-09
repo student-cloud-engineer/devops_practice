@@ -7,4 +7,4 @@ def sum(a,b):
     c = a+b
     return c
 
-    print (a,b)
+    print (a+b)
